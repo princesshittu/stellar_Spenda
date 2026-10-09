@@ -152,7 +152,7 @@ sequenceDiagram
 ### 1. Clone
 
 ```bash
-git clone https://github.com/princesshittu/Stellar-Spend.git
+git clone https://github.com/princesshittu/stellar_Spenda.git
 cd Stellar-Spend
 ```
 
@@ -358,7 +358,7 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for branch naming conventions, 
 
 ## Maintainership
 
-This project was originally hosted at `github.com/Lex-Studios/Stellar-Spend`. That account was suspended, so the project was recovered from a fork and is now maintained at [github.com/princesshittu/Stellar-Spend](https://github.com/princesshittu/Stellar-Spend). The full Git history, including all original commits and contributor attribution, has been preserved unchanged.
+This project was originally hosted at `github.com/Lex-Studios/Stellar-Spend`. That account was suspended, so the project was recovered from a fork and is now maintained at [github.com/princesshittu/stellar_Spenda](https://github.com/princesshittu/stellar_Spenda). The full Git history, including all original commits and contributor attribution, has been preserved unchanged.
 
 ---
 
