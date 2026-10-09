@@ -1,6 +1,5 @@
 # Stellar-Spend
 
-[![CI](https://github.com/whiteghost0001/Stellar-Spend/workflows/CI/badge.svg)](https://github.com/whiteghost0001/Stellar-Spend/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue)](https://www.typescriptlang.org)
@@ -153,7 +152,7 @@ sequenceDiagram
 ### 1. Clone
 
 ```bash
-git clone https://github.com/whiteghost0001/Stellar-Spend.git
+git clone https://github.com/princesshittu/stellar_Spenda.git
 cd Stellar-Spend
 ```
 
@@ -354,6 +353,12 @@ The CI build fails if `.next/` exceeds **150 MB**. Run `npm run build:analyze` t
 ## Contributing
 
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for branch naming conventions, commit message format, and the pull request process.
+
+---
+
+## Maintainership
+
+This project was originally hosted at `github.com/Lex-Studios/Stellar-Spend`. That account was suspended, so the project was recovered from a fork and is now maintained at [github.com/princesshittu/stellar_Spenda](https://github.com/princesshittu/stellar_Spenda). The full Git history, including all original commits and contributor attribution, has been preserved unchanged.
 
 ---
 
